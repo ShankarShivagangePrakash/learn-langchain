@@ -71,11 +71,7 @@ learn-langchain/
 ### Prerequisites
 ```bash
 # Python 3.8 or higher
-python --version
-
-# Virtual environment (recommended)
-python -m venv langchain-env
-source langchain-env/bin/activate  # On macOS/Linux
+python3 --version
 ```
 
 ### Installation
@@ -84,20 +80,22 @@ source langchain-env/bin/activate  # On macOS/Linux
 git clone <your-repo-url>
 cd learn-langchain
 
+# Create virtual environment
+python3 -m venv venv
+
+# Activate virtual environment
+source venv/bin/activate
+
 # Install dependencies
 pip install -r requirements.txt
 
 # Set up environment variables
-cp .env.example .env
-# Add your API keys to .env file
+Add your API keys to env variable
 ```
 
 ### Environment Variables
-Create a `.env` file with the following:
 ```
 OPENAI_API_KEY=your_openai_api_key
-HUGGINGFACE_API_TOKEN=your_huggingface_token
-# Add other API keys as needed
 ```
 
 ## 📚 Learning Path
@@ -126,11 +124,10 @@ HUGGINGFACE_API_TOKEN=your_huggingface_token
 - **LangChain** - AI application framework
 - **Streamlit** - Web app framework
 - **OpenAI API** - Commercial AI models
-- **Hugging Face** - Open source models
 - **Vector Databases** - Chroma, Pinecone, FAISS
-- **Jupyter Notebooks** - Interactive development
+- **Visual Studio Code** - Interactive development Environment
 
-## 🎨 Sample Projects
+## 🎨 Sample Projects to Explore
 
 - **Smart Document Q&A** - RAG-powered document analysis
 - **AI Research Assistant** - Multi-source information retrieval
