@@ -1,0 +1,11 @@
+scikit-learn
+ipykernel
+langchain
+langchain-community
+langchain-chroma
+langchain_ollama
+langchain-text-splitters
+langchain-openai
+streamlit
+wikipedia
+duckduckgo-search
