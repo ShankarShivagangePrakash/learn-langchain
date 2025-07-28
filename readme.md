@@ -20,8 +20,8 @@ This repo serves as my personal learning laboratory where I explore, experiment 
 - **Prompt Templates** - Crafting effective prompts for different use cases
 - **Chains** - Building complex AI workflows and pipelines
 - **Retrieval Augmented Generation (RAG)** - Enhancing AI with external knowledge
-- **Agents** - Creating autonomous AI systems with tool usage
 - **Memory Systems** - Implementing conversation and context retention
+- **Agents** - Creating autonomous AI systems with tool usage
 - **Vector Databases** - Storing and retrieving embeddings efficiently
 
 ### Models & Platforms
@@ -61,8 +61,6 @@ learn-langchain/
 ├── 08-streamlit-apps/        # Interactive web applications
 ├── 09-vector-databases/      # Embedding storage and retrieval
 ├── 10-real-world-projects/   # Complete project implementations
-├── docs/                     # Additional documentation
-├── utils/                    # Helper functions and utilities
 └── requirements.txt          # Project dependencies
 ```
 
