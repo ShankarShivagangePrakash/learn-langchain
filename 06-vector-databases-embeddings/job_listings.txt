@@ -1,0 +1,77 @@
+Senior Python Developer - TechCorp Inc.
+Location: San Francisco, CA (Remote Available)
+Experience: 5+ years
+Requirements: Strong Python programming skills, Django/Flask frameworks, REST API development, database design (PostgreSQL, MongoDB), cloud platforms (AWS, GCP), microservices architecture, unit testing, git version control
+Responsibilities: Design and implement scalable backend systems, collaborate with frontend teams, optimize database performance, mentor junior developers, participate in code reviews
+Salary: $120,000 - $160,000
+Benefits: Health insurance, 401k matching, flexible hours, remote work options
+
+Machine Learning Engineer - DataFlow Solutions
+Location: New York, NY
+Experience: 3-5 years
+Requirements: Python, TensorFlow, PyTorch, scikit-learn, pandas, numpy, data preprocessing, model deployment, MLOps, docker, kubernetes, statistics, mathematics
+Responsibilities: Develop ML models for predictive analytics, implement data pipelines, deploy models to production, A/B testing, performance monitoring, research new algorithms
+Salary: $140,000 - $180,000
+Benefits: Stock options, unlimited PTO, learning budget, conference attendance
+
+Frontend React Developer - WebInnovate
+Location: Austin, TX (Hybrid)
+Experience: 2-4 years
+Requirements: JavaScript, React.js, Redux, HTML5, CSS3, TypeScript, responsive design, RESTful APIs, testing frameworks (Jest, Cypress), webpack, npm/yarn
+Responsibilities: Build user interfaces, implement responsive designs, optimize performance, collaborate with UX designers, write unit tests, maintain code quality
+Salary: $90,000 - $120,000
+Benefits: Health coverage, dental, vision, gym membership, team events
+
+Data Scientist at DataMinds - Duties involve analyzing large datasets, building predictive models, and presenting insights to stakeholders. Requires expertise in Python, R, machine learning algorithms, statistical analysis, data visualization tools like Tableau and matplotlib, SQL database querying, and experience with big data frameworks like Spark or Hadoop. Strong communication skills essential for presenting findings to non-technical stakeholders.
+
+Digital Marketing Specialist at MarketGurus - Role includes creating and managing online marketing campaigns, analyzing web traffic, and optimizing SEO. Requires experience with Google Analytics, Google Ads, social media marketing, content marketing strategy, email marketing automation, A/B testing, conversion rate optimization, and SEO best practices. Creative thinking and analytical mindset required.
+
+Full Stack JavaScript Developer - StartupXYZ
+Location: Seattle, WA
+Experience: 2-5 years
+Requirements: Node.js, React, Express.js, MongoDB, JavaScript (ES6+), RESTful services, agile development, git, problem-solving skills
+Responsibilities: Develop full-stack applications, create APIs, implement user interfaces, database management, participate in sprint planning, code reviews
+Salary: $85,000 - $115,000
+Benefits: Equity participation, health benefits, flexible schedule, casual environment
+
+DevOps Engineer - CloudScale
+Location: Denver, CO (Remote OK)
+Experience: 4+ years
+Requirements: AWS/Azure/GCP, Docker, Kubernetes, CI/CD pipelines, Infrastructure as Code (Terraform), monitoring tools, Linux administration, scripting (Bash, Python)
+Responsibilities: Manage cloud infrastructure, automate deployment processes, monitor system performance, ensure security compliance, troubleshoot issues
+Salary: $125,000 - $155,000
+Benefits: Comprehensive insurance, 401k, professional development, remote flexibility
+
+Product Manager at BuildIt - Responsibilities include overseeing product development lifecycle, managing budgets, and coordinating with engineering teams. Requires strong leadership skills, technical understanding, user research capabilities, data analysis, roadmap planning, stakeholder management, and knowledge of agile methodologies and project management software like JIRA and Confluence.
+
+Graphic Designer at CreativeWorks - Role involves designing marketing materials, web graphics, user interface elements, collaborating with the creative team, and adhering to brand guidelines. Requires proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign), Figma, strong portfolio showcasing diverse design work, understanding of design principles, typography, and color theory.
+
+Financial Analyst at FinExperts - Duties include analyzing financial data, preparing detailed reports, forecasting, budgeting, and advising on investment decisions. Requires strong analytical skills, experience with financial modeling in Excel, knowledge of accounting principles, familiarity with financial databases, attention to detail, and ability to communicate complex financial concepts clearly.
+
+Mobile App Developer - AppGenius
+Location: Los Angeles, CA
+Experience: 3+ years
+Requirements: iOS (Swift) or Android (Kotlin/Java), mobile UI/UX principles, API integration, app store publishing, testing frameworks, version control
+Responsibilities: Develop native mobile applications, optimize app performance, implement new features, fix bugs, collaborate with designers, maintain code quality
+Salary: $100,000 - $135,000
+Benefits: Health benefits, equity, flexible hours, modern equipment
+
+Cybersecurity Specialist at SecureNet - Role involves protecting the company's IT infrastructure, monitoring for security breaches, conducting penetration testing, implementing security protocols, incident response, and security awareness training. Requires expertise in network security, firewalls, intrusion detection systems, vulnerability assessment tools, security frameworks like NIST, and relevant certifications like CISSP or CEH.
+
+UX/UI Designer - DesignStudio
+Location: Chicago, IL (Hybrid)
+Experience: 3-5 years
+Requirements: Design tools (Figma, Sketch, Adobe Creative Suite), user research, prototyping, wireframing, usability testing, design systems, HTML/CSS basics
+Responsibilities: Create user-centered designs, conduct user research, develop prototypes, collaborate with developers, maintain design systems, iterate based on feedback
+Salary: $80,000 - $110,000
+Benefits: Creative environment, health benefits, design conference attendance, flexible work
+
+Quality Assurance Engineer - TestPro
+Location: Miami, FL (Remote Available)
+Experience: 2-4 years
+Requirements: Manual testing, automated testing (Selenium, Cypress), test planning, bug tracking, API testing, performance testing, attention to detail
+Responsibilities: Design test cases, execute test plans, identify and report bugs, collaborate with development teams, maintain test documentation, ensure quality standards
+Salary: $70,000 - $95,000
+Benefits: Remote option, health coverage, professional development, team building events
+
+Content Writer at WordSmiths - Responsibilities include creating engaging content for blogs, social media, websites, email campaigns, and marketing materials. Requires excellent writing skills, SEO knowledge, content strategy understanding, social media marketing experience, ability to adapt tone for different audiences, research skills, and creative mindset for developing compelling narratives that drive engagement.
